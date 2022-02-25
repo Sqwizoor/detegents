@@ -1,0 +1,47 @@
+
+.about__us{
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+
+
+.about__heading{
+    padding-left: 4rem;
+    padding-top: 4rem;
+    padding-right: 1rem;
+    padding-bottom: 4rem;
+    
+}
+.about__heading h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 50px;
+    color: #343435;
+    
+}
+.about__heading h1 span {
+   color: #0496ff;
+}
+
+
+.about__heading p {
+    padding-top: 2rem;
+   color: #7a7a7a;
+   font-family: 'Archivo', sans-serif;
+   font-size: 19px;
+   line-height: 25px;
+  
+}
+
+.about__image img{
+width: 600px;
+display: flex;
+justify-content: center;
+margin: .5rem auto;
+
+padding-top: 9rem;
+padding-right: 1rem;
+padding-bottom: 4rem;
+}

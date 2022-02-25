@@ -1,0 +1,24 @@
+
+.products_heading h1{
+    color: black;
+    display: flex;
+    font-weight: bold;
+    font-size: 37px;
+    justify-content: center;
+    margin: .5rem auto;
+    font-family: 'Archivo', sans-serif;
+    padding-top: 8rem;
+    padding-bottom: 4rem;
+}
+.products_heading h1 span{
+    color: #bb3e03;
+    padding-left: 5px;
+   
+}
+
+
+
+.product_image img{
+    max-height: 24rem;
+   max-width: 20rem;
+}

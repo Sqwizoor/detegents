@@ -1,0 +1,29 @@
+.paper_image img{
+   display: flex;
+   justify-content: center;
+   margin: .5rem auto;
+   padding-top: 2rem;
+   width: 4rem;
+   
+}
+.paper_image h4{
+   color: black;
+   display: flex;
+   font-weight: 500;
+   font-size: 22px;
+   justify-content: center;
+   margin: .5rem auto;
+   padding-top: 1rem;
+   font-family: 'Archivo', sans-serif;
+}
+.paper_image h5{
+   color: #001219;
+   display: flex;
+   font-weight: 400;
+   font-size: 15px;
+   padding: 20px;
+   justify-content: center;
+   margin: .5rem auto;
+   padding-top: 1rem;
+   font-family: 'Archivo', sans-serif;
+}
